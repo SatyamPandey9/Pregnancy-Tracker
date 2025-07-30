@@ -29,6 +29,7 @@ A modern Android app built with **Kotlin**, **Jetpack Compose**, and **Room Data
 | MVVM              | Architecture pattern               |
 | Kotlin Flow       | Reactive state management          |
 | Dagger Hilt       | Dependency Injection               |
+| WorkManager       | Background sync/reminder logic     |
 
 ---
 
