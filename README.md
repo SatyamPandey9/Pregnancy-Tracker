@@ -15,20 +15,22 @@ A modern Android app built with **Kotlin**, **Jetpack Compose**, and **Room Data
 - 💾 Offline data storage using Room Database
 - 💡 Clean UI with Jetpack Compose
 - 🔄 Modern MVVM architecture with State management
+- 🧪 Dependency injection with **Dagger Hilt**
 
 ---
 
 ## 🛠 Tech Stack
 
-| Technology       | Used For                           |
-|------------------|------------------------------------|
-| Kotlin           | Programming Language               |
-| Jetpack Compose  | UI Development                     |
-| Room DB          | Local data persistence             |
-| MVVM             | App architecture pattern           |
-| StateFlow/LiveData| Reactive state management          |
-| WorkManager (Optional) | Background sync/reminder logic |
+| Technology        | Used For                           |
+|-------------------|------------------------------------|
+| Kotlin            | Programming Language               |
+| Jetpack Compose   | Declarative UI                     |
+| Room DB           | Local data persistence             |
+| MVVM              | Architecture pattern               |
+| Kotlin Flow       | Reactive state management          |
+| Dagger Hilt       | Dependency Injection               |
 
+---
 
 
 
