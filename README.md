@@ -1,3 +1,37 @@
+# Pregnancy Vitals Tracker App 👶📱
+
+A modern Android app built with **Kotlin**, **Jetpack Compose**, and **Room Database** to track vital health stats during pregnancy. Built as part of an assignment project.
+
+---
+
+## 🧩 Features
+
+- ✅ Add daily vitals:
+  - Blood Pressure (Systolic / Diastolic)
+  - Heart Rate
+  - Weight
+  - Baby Kicks Count
+- 📊 View vitals in organized card format
+- 💾 Offline data storage using Room Database
+- 💡 Clean UI with Jetpack Compose
+- 🔄 Modern MVVM architecture with State management
+
+---
+
+## 🛠 Tech Stack
+
+| Technology       | Used For                           |
+|------------------|------------------------------------|
+| Kotlin           | Programming Language               |
+| Jetpack Compose  | UI Development                     |
+| Room DB          | Local data persistence             |
+| MVVM             | App architecture pattern           |
+| StateFlow/LiveData| Reactive state management          |
+| WorkManager (Optional) | Background sync/reminder logic |
+
+
+
+
 Screenshot of screen
 
 <img width="388" height="788" alt="Screenshot 2025-07-31 005832" src="https://github.com/user-attachments/assets/93838970-aba1-403d-aecb-0315dc4d5327" />
